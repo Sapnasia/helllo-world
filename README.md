@@ -1,2 +1,2 @@
 # helllo-world
-Starting out
+Trying to learn as much as I can, as fast as I can.
